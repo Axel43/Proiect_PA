@@ -1,0 +1,24 @@
+#header-top {
+  /* position: absolute; */
+  top: 0px;
+  left: 0px;
+  z-index: 20;
+  background-position: left;
+  background-repeat: no-repeat;
+  background-color: #FFF;
+  background-size: auto 100%;
+  width: 90%;
+  margin: 0 5%;
+}
+
+.titlu {
+  text-align: center;
+  display: flex;
+}
+
+.img1 {
+  /* background-color:blanchedalmond; */
+  width: 35%;
+  height: 85%;
+  object-fit: cover;
+}
