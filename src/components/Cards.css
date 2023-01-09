@@ -1,0 +1,12 @@
+.content-container{
+  margin-top: 35px;
+  justify-content: center;
+}
+#card-img{
+  width: 35%;
+  height: 35%;
+  margin:auto;
+}
+.card-content{
+  text-align: center;
+}
